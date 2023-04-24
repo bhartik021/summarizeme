@@ -11,8 +11,7 @@ const Hero = () => {
      */
     <header className="w-full flex justify-center items-center flex-col">
         <nav className="flex justify-between items-center w-full mb-10 pt-3">
-            <img src={logo} alt="summarizeme" className="w-90 object-contain"/>
-
+            <img src={logo} alt="summarizeme" className="w-148 object-contain"/>
             <button
             type="button"
             onClick={() => {
