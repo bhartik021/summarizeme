@@ -2,8 +2,9 @@
 
 ## Table of Contents
 1. Overview
-2. UML
-3. Technologies Used
+2. What this Application does
+3. UML
+4. Technologies Used
 
 ## Overview
 SummarizeMe is an open-source article summarizer application that provides users with clear and concise summaries of lengthy articles. The application utilizes OpenAI's GPT model and RapidApi to generate summaries. It also incorporates local storage to save history, handles form events, and catches errors to ensure a smooth user experience. The frontend is built using HTML, CSS, and JavaScript with ReactJS as the framework, and Tailwind CSS as the CSS framework for styling. Additionally, it integrates a **copy to clipboard** feature for easy sharing of the generated summaries.
