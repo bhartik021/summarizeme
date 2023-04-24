@@ -6,13 +6,14 @@
 3. Technologies Used
 
 ## Overview
-Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.
+SummarizeMe is an open-source article summarizer application that provides users with clear and concise summaries of lengthy articles. The application utilizes OpenAI's GPT model and RapidApi to generate summaries. It also incorporates local storage to save history, handles form events, and catches errors to ensure a smooth user experience. The frontend is built using HTML, CSS, and JavaScript with ReactJS as the framework, and Tailwind CSS as the CSS framework for styling. Additionally, it integrates a **copy to clipboard** feature for easy sharing of the generated summaries.
+
 
 ## What this Application does
 - Summarizes article using OpenAI's GPT model and RapidApi.
 - save history using the local storage
 - handle form events and catch errors
-- implement copy to clipboard
+- allows user to copy to clipboard the summarized article.
 
 ## Technologies Used
 Frontend - HTML, CSS, JavaScript, Reactjs
