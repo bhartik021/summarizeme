@@ -15,9 +15,9 @@ SummarizeMe is an open-source article summarizer application that provides users
 
 ## What this Application does
 - Summarizes article using OpenAI's GPT model and RapidApi.
-- save history using the local storage
-- handle form events and catch errors
-- allows user to copy to clipboard the summarized article.
+- Save history using the local storage
+- Handle form events and catch errors
+- Allows user to copy to clipboard the summarized article.
 
 ## Technologies Used
 - Frontend - HTML, CSS, JavaScript, Reactjs
