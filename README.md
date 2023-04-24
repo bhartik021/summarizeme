@@ -16,9 +16,9 @@ SummarizeMe is an open-source article summarizer application that provides users
 - allows user to copy to clipboard the summarized article.
 
 ## Technologies Used
-Frontend - HTML, CSS, JavaScript, Reactjs
-CSS Framework - Tailwind CSS
-API - RapidApi
-Developer Tooling - Prettier, git
-Design Tool - StarUML
-DevOps - GitHub, Vercel
+- Frontend - HTML, CSS, JavaScript, Reactjs
+- CSS Framework - Tailwind CSS
+- API - RapidApi ([Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel))
+- Developer Tooling - Prettier, git
+- Design Tool - StarUML
+- DevOps - GitHub, Vercel
