@@ -1,4 +1,4 @@
-#  ![favicon-2](https://user-images.githubusercontent.com/75694208/233992679-ffcb2c2d-578d-432f-835a-a3a99069c015.png) summarizeme
+#  ![favicon-2](https://user-images.githubusercontent.com/75694208/233992679-ffcb2c2d-578d-432f-835a-a3a99069c015.png) SummarizeMe
 
 ## Table of Contents
 1. Overview
