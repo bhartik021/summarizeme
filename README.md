@@ -1,5 +1,8 @@
 # ![favicon-2](https://user-images.githubusercontent.com/75694208/233992679-ffcb2c2d-578d-432f-835a-a3a99069c015.png) SummarizeMe
 
+![screencapture-summarizeme-coral-vercel-app-2023-04-24-18_24_29](https://user-images.githubusercontent.com/75694208/234002428-9f8b0f48-bd0b-4bfe-b33d-f74faef97d6d.png)
+
+
 ## Table of Contents
 
 1. Overview
@@ -14,9 +17,9 @@ SummarizeMe is an open-source article summarizer application that provides users
 ## What this Application does
 
 - Summarizes article using OpenAI's GPT model and RapidApi.
-- save history using the local storage
-- handle form events and catch errors
-- allows user to copy to clipboard the summarized article.
+- Save history using the local storage
+- Handle form events and catch errors
+- Allows user to copy to clipboard the summarized article.
 
 ## Technologies Used
 
