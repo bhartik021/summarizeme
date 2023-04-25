@@ -1,7 +1,11 @@
 import React from 'react';
 
 import { logo } from '../assets';
-
+/**
+ *
+ *
+ * @return {*} 
+ */
 const Hero = () => {
   return (
     /**
