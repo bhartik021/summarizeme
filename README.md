@@ -1,7 +1,8 @@
 # ![favicon-2](https://user-images.githubusercontent.com/75694208/233992679-ffcb2c2d-578d-432f-835a-a3a99069c015.png) SummarizeMe
 
-![screencapture-summarizeme-coral-vercel-app-2023-04-24-18_24_29](https://user-images.githubusercontent.com/75694208/234002428-9f8b0f48-bd0b-4bfe-b33d-f74faef97d6d.png)
+<!-- ![screencapture-summarizeme-coral-vercel-app-2023-04-24-18_24_29](https://user-images.githubusercontent.com/75694208/234002428-9f8b0f48-bd0b-4bfe-b33d-f74faef97d6d.png) -->
 
+https://github.com/bhartik021/summarizeme/assets/75694208/63bbe626-89c8-4874-bfbf-9689a099b179
 
 ## Table of Contents
 
